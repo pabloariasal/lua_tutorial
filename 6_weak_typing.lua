@@ -1,4 +1,4 @@
--- Lua is a dynamic and weakly typed language
+-- Lua is dynamically and weakly typed
 --[[
                                ^ Strong
                                |

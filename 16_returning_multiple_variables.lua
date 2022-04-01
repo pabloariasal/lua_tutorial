@@ -1,4 +1,4 @@
--- Functions can return multiple values
+-- Returning multiple values
 
 function g(a,b) return a and b, b or a end
 

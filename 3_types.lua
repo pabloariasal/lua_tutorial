@@ -1,5 +1,4 @@
--- Types in Lua
--- There are only 8 types
+-- There are only 8 types in Lua
 
  print(type("Hello world"))  -- string
  print(type(10.4))           -- number
@@ -8,5 +7,4 @@
  print(type({}))             -- table
  print(type(print))          -- function
  print(type(coroutine.create(function() print("hi") end))) -- thread
- 
--- eight type is called 'userdata' and models a type of arbitrary contents and size (similar to a void* in C/C++)
+-- 'userdata' models a type of arbitrary contents and size (similar to a void* in C/C++)

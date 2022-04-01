@@ -1,4 +1,4 @@
--- Local and global scopes
+-- Lua's variables can be local or global
 -- Per default all variables are global
 
 f = function()

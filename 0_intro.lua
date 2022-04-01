@@ -1,13 +1,13 @@
--- The Lua Programming Language
+-- Learn Lua in 30 Minutes
 
 --[[
-* Multi paradigm scripting language
-* Dynamically and weakly typed
+The Lua Programming Language
+* Multi-paradigm scripting language
 * Very Minimal
-* Embeddable language
-
-Lua was designed to be embedded in a larger host C/C++ application
-Hence Lua's VM is also shipped as a C library
+* Dynamically and weakly typed
+* Designed to be embedded in a larger host C/C++ application
+* Implemented as a C library
 --]]
 
-print("Hello World")
+print("Hello World") -- comment
+print 'Hello World'

@@ -1,3 +1,4 @@
+-- Do blocks explicitly define lexical scope
 do
     local x = 6
     y = 7

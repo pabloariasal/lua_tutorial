@@ -1,4 +1,4 @@
--- Tables have reference semantics
+-- Reference semantics
 
 x = 5
 y = x -- copy
