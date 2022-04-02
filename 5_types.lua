@@ -7,4 +7,4 @@
  print(type({}))             -- table
  print(type(print))          -- function
  print(type(coroutine.create(function() print("hi") end))) -- thread
--- 'userdata' models a type of arbitrary contents and size (similar to a void* in C/C++)
+-- 'userdata' models a type of arbitrary contents and size

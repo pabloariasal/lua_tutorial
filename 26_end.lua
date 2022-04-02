@@ -1,7 +1,7 @@
 -- The End
--- You are a Lua programmer now ;)
+-- You are a Lua programmer now :)
 
--- Further topics:
+-- Further reading:
 -- 1) Coroutines
 -- 2) C library and API
 -- 3) Advanced OO
