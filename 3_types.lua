@@ -1,4 +1,4 @@
--- There are only 8 types in Lua
+-- The eight types of Lua
 
  print(type("Hello world"))  -- string
  print(type(10.4))           -- number

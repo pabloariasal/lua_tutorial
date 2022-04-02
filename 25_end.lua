@@ -7,6 +7,6 @@
 -- 3) Advanced OO
 -- 4) standard library
 
--- References:
+-- Recommended references:
 -- Lua Manual: https://www.lua.org/manual/5.4/
 -- Lua Book: https://www.lua.org/pil/
