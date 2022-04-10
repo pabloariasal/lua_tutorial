@@ -4,7 +4,7 @@
 -- Further reading:
 -- 1) Coroutines
 -- 2) C library and API
--- 3) Advanced OO
+-- 3) Advanced Object Oriented Programming
 -- 4) standard library
 
 -- Recommended references:

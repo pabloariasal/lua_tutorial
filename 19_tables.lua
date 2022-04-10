@@ -1,5 +1,4 @@
--- Tables: Single datastructure in Lua
--- Can be used to construct associative arrays
+-- Tables: Associative arrays
 
 a = {} -- empty table
 a[10] = 'b'

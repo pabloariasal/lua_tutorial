@@ -1,4 +1,4 @@
--- Records
+-- Tables: Records
 person = {name="John", age=50}
 
 -- same as

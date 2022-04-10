@@ -1,2 +1,3 @@
-print("Hello World") -- this is a comment
+-- Or first Lua Program
+print("Hello World")
 print 'Hello World'

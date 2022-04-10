@@ -1,4 +1,4 @@
--- Arrays: Associative arrays with implicit keys
+-- Tables: Arrays
 
 t = {false, "Hello", 7}
 print(t[0]) -- nil

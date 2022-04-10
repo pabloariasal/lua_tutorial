@@ -16,7 +16,7 @@ print(nil or 13) -- 13
 -- compute the minimum of two numbers
 min (x < y) and x or y
 
--- common idiom
+-- Initialize x to v only if x undefined
 x = x or v
 -- same as:
 if not x then x = v end

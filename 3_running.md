@@ -1,10 +1,10 @@
-# Running Lua programs
+# How to run a Lua program?
 
-Download lua installation form www.lua.org or your distro's package manager
+Download Lua installation from www.lua.org or your distro's package manager
 
-=> Lua can be run in two ways:
+This will install:
 
-1) with the standalone interpreter
-2) From within a C/C++ application using the Lua C library and API
+1) The standalone Lua interpreter
+2) The Lua C library and API
 
 Or try it out online: www.lua.org/demo.html

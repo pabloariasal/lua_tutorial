@@ -1,4 +1,5 @@
--- Lua is dynamically typed
+-- Lua's Type System
+-- Dynamic typing
 x = 5
 print(type(x)) -- number
 x = 'a'
